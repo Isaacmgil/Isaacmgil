@@ -20,17 +20,17 @@
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>  Languages and Tools
 </h2>
 
-<table text-align="center" align="center">
+<table align="center" >
     <tbody>
-        <tr text-align="center">
+        <tr>
             <td><p align="center">JavaScript</p><a href="#">
               <img alt="JavaScript" title="JavaScript" height="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
             </td>
             <td><p align="center">HTML5</p><a href="#"><img alt="HTML5" title="HTML5" height="55px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
             </td>
-            <td><p align="center">CSS3</p><a href="#">
-              <img alt="CSS3" title="CSS3" height="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
+            <td style="text-align:center;" ><p align="center">CSS3</p><a href="#">
+              <img alt="CSS3" title="CSS3" height="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="display: flex; margin: auto;" /></a>
             </td>
             <td><p align="center">Angular</p><a href="#"><img alt="Angular" title="Angular" height="55px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" /></a>
