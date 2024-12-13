@@ -22,37 +22,37 @@
 
 <table align="center">
     <tbody>
-        <tr>
-            <td><a href="#"><img alt="JavaScript" title="JavaScript" height="55px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
+        <tr text-align="center">
+            <td><p align="center">JavaScript</p><a href="#">
+              <img alt="JavaScript" title="JavaScript" height="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
             </td>
-            <td><a href="#"><img alt="HTML5" title="HTML5" height="55px"
+            <td><p align="center">HTML5</p><a href="#"><img alt="HTML5" title="HTML5" height="55px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
             </td>
-            <td><a href="#"><img alt="CSS3" title="CSS3" height="55px"
+            <td><p align="center">CSS3</p><a href="#"><img alt="CSS3" title="CSS3" height="55px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
             </td>
-            <td><a href="#"><img alt="Angular" title="Angular" height="55px"
+            <td><p align="center">Angular</p><a href="#"><img alt="Angular" title="Angular" height="55px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" /></a>
             </td>
-            <td><a href="#"><img alt="NodeJS" title="NodeJS" height="55px"
+            <td><p align="center">NodeJS</p><a href="#"><img alt="NodeJS" title="NodeJS" height="55px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>
             </td>
         </tr>
         <tr>
-            <td><a href="#"><img alt="React" title="React" height="55px"
+            <td><p align="center">React</p><a href="#"><img alt="React" title="React" height="55px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></a>
             </td>
-            <td><a href="#"><img alt="Sheets" title="Sheets" height="55px"
+            <td><p align="center">Sheets</p><a href="#"><img alt="Sheets" title="Sheets" height="55px"
                         src="https://img.icons8.com/color/48/000000/google-sheets.png" /></a>
             </td>
-            <td><a href="#"><img alt="Visual Studio" title="Visual Studio Code" height="55px"
+            <td><p align="center">Visual Studio</p><a href="#"><img alt="Visual Studio" title="Visual Studio Code" height="55px"
                         src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" /></a>
             </td>
-            <td><a href="#"><img alt="Terminal" title="Terminal" height="55px"
+            <td><p align="center">Terminal</p><a href="#"><img alt="Terminal" title="Terminal" height="55px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>
             </td>
-            <td><a href="#"><img alt="GitHub" title="GitHub" height="55px"
+            <td><p align="center">GitHub</p><a href="#"><img alt="GitHub" title="GitHub" height="55px"
                         src="https://i.imgur.com/DZgetVv.png" /></a>
             </td>
         </tr>
