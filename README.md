@@ -82,7 +82,7 @@
 
 <div align="center">
   Thanks for watching my profile!<br/>
-  &copy; 2024 Isaac Meneses
+  &copy; 2025 Isaac Meneses
 </div>
 
 <!--
