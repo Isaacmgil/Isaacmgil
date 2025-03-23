@@ -11,7 +11,6 @@
   </a>
   <a href="https://github.com/Isaacmgil">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Isaacmgil&show_icons=true&locale=en&layout=compact&theme=algolia" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Isaacmgil&show_icons=true&locale=en&layout=compact&theme=algolia" />
   </a>
 </p>
 
