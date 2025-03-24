@@ -40,8 +40,8 @@
             </td>
         </tr>
         <tr>
-            <td><p align="center">React</p><a href="#"><img alt="React" title="React" height="55px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></a>
+            <td><p align="center">TypeScript</p><a href="#"><img alt="TypeScript" title="TypeScriptt" height="55px"
+                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /></a>
             </td>
             <td><p align="center">Sheets</p><a href="#"><img alt="Sheets" title="Sheets" height="55px"
                         src="https://img.icons8.com/color/48/000000/google-sheets.png" /></a>
